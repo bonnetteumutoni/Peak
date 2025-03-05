@@ -1,0 +1,10 @@
+.container{
+    border: dotted green;
+ }
+ .innercontainer{
+    padding: 20px;
+    margin: 5%;
+    border: solid blue;
+    text-align: center;
+ }
+ 
